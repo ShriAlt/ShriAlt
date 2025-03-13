@@ -8,6 +8,7 @@
 I can read Java errors better than my own handwriting! 😆  
 
 ### 📊 GitHub Streaks  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShriAlt)
+ 
 
 
