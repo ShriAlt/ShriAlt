@@ -1,11 +1,12 @@
-### Hi there, I'm Shriharsha K M 👋  
+Hey there, I'm Shriharsha K M 👋
 
-💻 I’m currently learning Java @ X-workz<br> 
-📫 How to reach me: shriharsha10@gmail.com  
-🔥 I love keeping up my GitHub streaks!  
+💻 Currently diving deep into Java at X-workz
+📫 Reach me at: shriharsha10@gmail.com
+🔥 Obsessed with keeping my GitHub streaks alive – it's like my daily workout for the brain! 💡
 
-### 🌟 Fun Fact About Me  
-I can read Java errors better than my own handwriting! 😆  
+🌟 Fun Fact About Me
+
+I once spent more time fixing a single Java bug than I’d like to admit… but hey, persistence is key, right? 🛠️
 
 ### 📊 GitHub Streaks  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShriAlt&theme=dark&hide_border=true)](https://git.io/streak-stats)
