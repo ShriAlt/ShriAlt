@@ -8,7 +8,8 @@
 I can read Java errors better than my own handwriting! 😆  
 
 ### 📊 GitHub Streaks  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShriAlt)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShriAlt&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
  
