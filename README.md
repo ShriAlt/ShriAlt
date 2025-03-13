@@ -1,6 +1,6 @@
 ### Hi there, I'm Shriharsha K M 👋  
 
-💻 I’m currently learning Java and Git.  
+💻 I’m currently learning Java @ X-workz 
 📫 How to reach me: shriharsha10@gmail.com  
 🔥 I love keeping up my GitHub streaks!  
 
