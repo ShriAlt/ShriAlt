@@ -1,6 +1,13 @@
-<h1>Hi 👋, I'm SHRIHARSHA K M</h1>
-<p>Software developer</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShriAlt&" alt="ShriAlt" /></p>
+### Hi there, I'm Shriharsha K M 👋  
+
+💻 I’m currently learning Java and Git.  
+📫 How to reach me: shriharsha10@gmail.com  
+🔥 I love keeping up my GitHub streaks!  
+
+### 🌟 Fun Fact About Me  
+I can read Java errors better than my own handwriting! 😆  
+
+### 📊 GitHub Streaks  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)  
+
+
