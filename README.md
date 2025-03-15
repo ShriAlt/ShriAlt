@@ -1,6 +1,6 @@
 Hey there, I'm Shriharsha K M 👋
 
-💻 Currently diving deep into Java at X-workz
+💻 Currently diving deep into Java at X-workz.
 📫 Reach me at: shriharsha10@gmail.com
 🔥 Obsessed with keeping my GitHub streaks alive – it's like my daily workout for the brain! 💡
 
