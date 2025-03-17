@@ -1,4 +1,4 @@
-Hey there, I'm Shriharsha K M 👋
+Hey, I'm Shriharsha K M 👋
 
 💻 Currently diving deep into Java at X-workz.
 📫 Reach me at: shriharsha10@gmail.com
