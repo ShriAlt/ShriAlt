@@ -1,4 +1,4 @@
-![Banner](https://github.com/ShriAlt/ShriAlt/assets/your-banner-path/banner.png)
+![Banner](banner.png)
 
 # 👋 Hey there, I'm Shriharsha K M!
 
