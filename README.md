@@ -2,7 +2,6 @@
   <img src="github-header-image (1).png" alt="Header Banner" />
 </header>
 
----
 
 ### 
 
@@ -53,6 +52,7 @@
 - [ ] Learn Spring and Spring Boot fundamentals  
 - [ ] Create RESTful APIs using Spring Boot  
 - [ ] Implement MVC architecture in a web app 
+
 ---
 
 ### 🌐 Connect With Me
@@ -81,7 +81,7 @@
 <br
 
 ---
-
+---
 ### 📊 GitHub Stats
 
 <table>
