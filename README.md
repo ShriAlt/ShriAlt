@@ -87,7 +87,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShriAlt&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShriAlt&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" >
     </td>
     <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriAlt&layout=compact&theme=tokyonight" alt="top lang">
