@@ -106,7 +106,7 @@
 ```java
 public class Developer {
     boolean persistence = true;
-    int intelligence = 0;
+    int intelligence = 1;
     int cupsOfCoffee = 1;
 
     public void keepCoding() {
