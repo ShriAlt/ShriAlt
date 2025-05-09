@@ -39,7 +39,7 @@
 -  Strengthening core Java programming skills
 -  Learning web application development using HTML, CSS, and Java
 -  Exploring backend concepts and building real-time mini projects
--  Learning MySql  
+-  Learning MySql  .
 ---
 
 ### 🚀 2025 Goals
