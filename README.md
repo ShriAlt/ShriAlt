@@ -5,7 +5,7 @@
 
 ### 
 
-🧠 Java Enthusiast !!!! <br>
+🧠 Java Enthusiast !! <br>
 ☕ Fueled by Coffee | Powered by passion 🚀  
 🌱 Passionate about building efficient code & solving problems  
 📬 Reach me at: **shriharshakm10@gmail.com**
