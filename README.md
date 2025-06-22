@@ -48,7 +48,6 @@
 - [ ] Build 3 complete Java-based web apps
 - [ ] Learn JDBC and connect to MySQL  
 - [ ] Create a personal portfolio site  
-- [ ] Contribute to open source
 - [ ] Learn Spring and Spring Boot fundamentals  
 - [ ] Create RESTful APIs using Spring Boot  
 - [ ] Implement MVC architecture in a web app 
