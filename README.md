@@ -37,20 +37,19 @@
 
 ### 🎯 Current Focus
 -  Strengthening core Java programming skills
--  Learning web application development using HTML, CSS, and Java
 -  Exploring backend concepts and building real-time mini projects
--  Learning MySql  .
+-  learning how servlets works
 ---
 
 ### 🚀 2025 Goals
 - [x] get good with basics of java
 - [ ] Master Java OOP concepts  
 - [ ] Build 3 complete Java-based web apps
-- [ ] Learn JDBC and connect to MySQL  
+- [x] Learn JDBC and connect to MySQL  
 - [ ] Create a personal portfolio site  
 - [ ] Learn Spring and Spring Boot fundamentals  
 - [ ] Create RESTful APIs using Spring Boot  
-- [ ] Implement MVC architecture in a web app 
+- [x] Implement MVC architecture in a web app 
 
 ---
 
