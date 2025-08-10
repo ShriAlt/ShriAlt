@@ -88,6 +88,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriAlt&layout=compact&theme=tokyonight" alt="top lang">
     </td>
   </tr>
+  <tr>
+    <td>
+        <img src="https://streak-stats.demolab.com?user=ShriAlt&theme=tokyonight&hide_border=true" alt="top lang">
+    </td>
+  </tr>
 </table>
 
 ---
