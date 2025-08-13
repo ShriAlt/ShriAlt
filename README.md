@@ -70,6 +70,12 @@
       <a href="https://www.hackerrank.com/profile/shriharshakm10">HackerRank</a>
     </th>
     <th>
+  <a href="https://shrialt.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2965/2965879.png" width="24" alt="Portfolio icon" />
+    My Portfolio
+  </a>
+</th>
+    <th>
       <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" />
       <a href="https://www.instagram.com/shriharsha_k_m/">Instagram</a>
     </th> 
