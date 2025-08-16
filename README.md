@@ -10,7 +10,7 @@
 🌱 Passionate about building efficient code & solving problems  
 📬 Reach me at: **shriharshakm10@gmail.com**
 
----
+----
 ### 🛠️ Languages & Tools
 
 <div align="left">
