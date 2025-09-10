@@ -47,7 +47,7 @@
 - [ ] Master Java OOP concepts  
 - [ ] Build 3 complete Java-based web apps
 - [x] Learn JDBC and connect to MySQL  
-- [ ] Create a personal portfolio site  
+- [x] Create a personal portfolio site  
 - [ ] Learn Spring and Spring Boot fundamentals  
 - [ ] Create RESTful APIs using Spring Boot  
 - [x] Implement MVC architecture in a web app 
