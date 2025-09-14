@@ -76,10 +76,10 @@
     My Portfolio
   </a>
 </th>
-    <th>
+<!--     <th>
       <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" />
       <a href="https://www.instagram.com/shriharsha_k_m/">Instagram</a>
-    </th> 
+    </th>  -->
   </tr>
 </table>
 <br>
