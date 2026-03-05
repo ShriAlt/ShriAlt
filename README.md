@@ -113,10 +113,6 @@
       <a href="https://www.linkedin.com/in/shriharsha-k-m33/">LinkedIn</a>
     </th> 
     <th>
-      <img align="center" src="https://img.icons8.com/color/48/dev-community.png" width="24" />
-      <a href="https://dev.to/shrialt">Dev.to</a>
-    </th> 
-    <th>
       <img align="center"src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="24" />
       <a href="https://www.hackerrank.com/profile/shriharshakm10">HackerRank</a>
     </th>
