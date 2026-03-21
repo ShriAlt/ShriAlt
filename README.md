@@ -6,13 +6,13 @@
 ###
 
 
-🧠 Java Enterprise Appliction Developer!<br>
-☕ Fueled by Coffee | Powered by passion 🚀  
-🌱 Passionate about building efficient code & solving problems  
-📬 Reach me at: **shriharshakm10@gmail.com**
+ Java Enterprise Appliction Developer!<br>
+ Fueled by Coffee | Powered by passion 🚀  
+ Passionate about building efficient code & solving problems  
+ Reach me at: **shriharshakm10@gmail.com**
 
 ----
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -91,20 +91,20 @@
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 -  Strengthening DSA and System Design
 -  Exploring React
 -  Working  on OrderService from Techroute (Microservice) 
 ---
 
-### 🚀 2026 Goals
+###  2026 Goals
 - [ ] Contribute to open-source Java projects (Start small )
 - [ ] Learn containerization with Docker & orchestration with Kubernetes
 - [ ] Practice system design (URL shortener, chat app, e-commerce checkout)
 - [ ] Strengthen DSA skills (graphs, DP, recursion, backtracking)
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <table align="left">
   <tr>  
@@ -133,11 +133,11 @@
 
 ---
 
-### 💡 Motto
+###  Motto
 > *"Persistence beats resistance. Code every day. Grow every day."*
 
 ---
-### 👨‍💻 Dev Philosophy
+###  Dev Philosophy
 
 ```java
 public class Developer {
