@@ -7,8 +7,8 @@
 
 
  Java Enterprise Appliction Developer!<br>
- Fueled by Coffee | Powered by passion 
- Passionate about building efficient code & solving problems  
+ Fueled by Coffee | Powered by passion <br>
+ Passionate about building efficient code & solving problems  <br>
  Reach me at: **shriharshakm10@gmail.com**
 
 ----
