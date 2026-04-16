@@ -93,7 +93,6 @@
 
 ###  Current Focus
 -  Strengthening DSA and System Design
--  Exploring React
 -  Working  on OrderService from Techroute (Microservice) 
 ---
 
