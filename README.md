@@ -97,7 +97,6 @@
 ---
 
 ###  2026 Goals
-- [ ] Contribute to open-source Java projects (Start small )
 - [ ] Learn containerization with Docker & orchestration with Kubernetes
 - [ ] Practice system design (URL shortener, chat app, e-commerce checkout)
 - [ ] Strengthen DSA skills (graphs, DP, recursion, backtracking)
